@@ -2,6 +2,8 @@ import Cocoa
 
 var str = "Hello, playground"
 
+// find the digit that represents 487 in binary
+
 487 % 2
 487 / 2
 
